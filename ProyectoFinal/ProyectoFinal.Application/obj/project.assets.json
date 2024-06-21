@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Santiago Aguero\\.nuget\\packages\\": {}
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Santiago Aguero\\Desktop\\Comunidad_ITLA\\ProyectoFinal\\ProyectoFinal.Application\\ProyectoFinal.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Application\\ProyectoFinal.Application.csproj",
       "projectName": "ProyectoFinal.Application",
-      "projectPath": "C:\\Users\\Santiago Aguero\\Desktop\\Comunidad_ITLA\\ProyectoFinal\\ProyectoFinal.Application\\ProyectoFinal.Application.csproj",
-      "packagesPath": "C:\\Users\\Santiago Aguero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Santiago Aguero\\Desktop\\Comunidad_ITLA\\ProyectoFinal\\ProyectoFinal.Application\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Application\\ProyectoFinal.Application.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Santiago Aguero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,12 +1,445 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Santiago Aguero\\Desktop\\Comunidad_ITLA\\ProyectoFinal\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.infraestructure\\interfaces\\ilibroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|solutionrelative:proyectofinal.infraestructure\\interfaces\\ilibroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.infraestructure\\interfaces\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|solutionrelative:proyectofinal.infraestructure\\interfaces\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.infraestructure\\context\\libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|solutionrelative:proyectofinal.infraestructure\\context\\libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.infraestructure\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|solutionrelative:proyectofinal.infraestructure\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.infraestructure\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|solutionrelative:proyectofinal.infraestructure\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.infraestructure\\repositories\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|solutionrelative:proyectofinal.infraestructure\\repositories\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.infraestructure\\models\\libromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|solutionrelative:proyectofinal.infraestructure\\models\\libromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.infraestructure\\exceptions\\libroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|solutionrelative:proyectofinal.infraestructure\\exceptions\\libroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.infraestructure\\exceptions\\autorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|solutionrelative:proyectofinal.infraestructure\\exceptions\\autorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.infraestructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|solutionrelative:proyectofinal.infraestructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.infraestructure\\proyectofinal.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35224ABF-3534-426C-9B45-7F4DC06B3DEC}|ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj|solutionrelative:proyectofinal.infraestructure\\proyectofinal.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.domain\\proyectofinal.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|solutionrelative:proyectofinal.domain\\proyectofinal.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.domain\\repository\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|solutionrelative:proyectofinal.domain\\repository\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.domain\\repository\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|solutionrelative:proyectofinal.domain\\repository\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.domain\\repository\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|solutionrelative:proyectofinal.domain\\repository\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.domain\\repository\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|solutionrelative:proyectofinal.domain\\repository\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.domain\\repository\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|solutionrelative:proyectofinal.domain\\repository\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|solutionrelative:proyectofinal.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.domain\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|solutionrelative:proyectofinal.domain\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|solutionrelative:proyectofinal.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.domain\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|solutionrelative:proyectofinal.domain\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.domain\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|solutionrelative:proyectofinal.domain\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.domain\\core\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|solutionrelative:proyectofinal.domain\\core\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.domain\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3C186E-9FCA-4A4C-B96A-D9BA5458FC0F}|ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj|solutionrelative:proyectofinal.domain\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F438A3-78E1-4E0F-8C88-1599630FE021}|ProyectoFinal.Web\\ProyectoFinal.Web.csproj|c:\\users\\lenovo\\desktop\\csharp-p.final\\proyectofinal\\proyectofinal.web\\proyectofinal.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48F438A3-78E1-4E0F-8C88-1599630FE021}|ProyectoFinal.Web\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal.web\\proyectofinal.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILibroException.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Interfaces\\ILibroException.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Infraestructure\\Interfaces\\ILibroException.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Interfaces\\ILibroException.cs",
+              "RelativeToolTip": "ProyectoFinal.Infraestructure\\Interfaces\\ILibroException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:49:52.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Repositories\\LibroRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Infraestructure\\Repositories\\LibroRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Repositories\\LibroRepository.cs",
+              "RelativeToolTip": "ProyectoFinal.Infraestructure\\Repositories\\LibroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:47:39.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Repositories\\AutorRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Infraestructure\\Repositories\\AutorRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Repositories\\AutorRepository.cs",
+              "RelativeToolTip": "ProyectoFinal.Infraestructure\\Repositories\\AutorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:47:27.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutorModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Models\\AutorModel.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Infraestructure\\Models\\AutorModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Models\\AutorModel.cs",
+              "RelativeToolTip": "ProyectoFinal.Infraestructure\\Models\\AutorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:46:45.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibreriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Context\\LibreriaContext.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Infraestructure\\Context\\LibreriaContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Context\\LibreriaContext.cs",
+              "RelativeToolTip": "ProyectoFinal.Infraestructure\\Context\\LibreriaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:43:47.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Interfaces\\IAutorRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Infraestructure\\Interfaces\\IAutorRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Interfaces\\IAutorRepository.cs",
+              "RelativeToolTip": "ProyectoFinal.Infraestructure\\Interfaces\\IAutorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:45:55.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibroModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Models\\LibroModel.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Infraestructure\\Models\\LibroModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Models\\LibroModel.cs",
+              "RelativeToolTip": "ProyectoFinal.Infraestructure\\Models\\LibroModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:47:09.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibroException.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Exceptions\\LibroException.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Infraestructure\\Exceptions\\LibroException.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Exceptions\\LibroException.cs",
+              "RelativeToolTip": "ProyectoFinal.Infraestructure\\Exceptions\\LibroException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:45:32.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutorException.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Exceptions\\AutorException.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Infraestructure\\Exceptions\\AutorException.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Exceptions\\AutorException.cs",
+              "RelativeToolTip": "ProyectoFinal.Infraestructure\\Exceptions\\AutorException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:45:19.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Core\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Infraestructure\\Core\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\Core\\BaseRepository.cs",
+              "RelativeToolTip": "ProyectoFinal.Infraestructure\\Core\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:44:09.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProyectoFinal.Infraestructure",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj",
+              "RelativeDocumentMoniker": "ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj",
+              "RelativeToolTip": "ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T02:34:24.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Repository\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Domain\\Repository\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Repository\\IClienteRepository.cs",
+              "RelativeToolTip": "ProyectoFinal.Domain\\Repository\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:18:56.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Repository\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Domain\\Repository\\IPedidoRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Repository\\IPedidoRepository.cs",
+              "RelativeToolTip": "ProyectoFinal.Domain\\Repository\\IPedidoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:19:33.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ILibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Repository\\ILibroRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Domain\\Repository\\ILibroRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Repository\\ILibroRepository.cs",
+              "RelativeToolTip": "ProyectoFinal.Domain\\Repository\\ILibroRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAVlUnwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:19:16.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProyectoFinal.Domain",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj",
+              "RelativeDocumentMoniker": "ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj",
+              "RelativeToolTip": "ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T01:04:36.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Repository\\ICategoriaRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Domain\\Repository\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Repository\\ICategoriaRepository.cs",
+              "RelativeToolTip": "ProyectoFinal.Domain\\Repository\\ICategoriaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:18:10.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Repository\\IAutorRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Domain\\Repository\\IAutorRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Repository\\IAutorRepository.cs",
+              "RelativeToolTip": "ProyectoFinal.Domain\\Repository\\IAutorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:17:44.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Domain\\Entities\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Entities\\Pedido.cs",
+              "RelativeToolTip": "ProyectoFinal.Domain\\Entities\\Pedido.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:34:53.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Entities\\Libro.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Domain\\Entities\\Libro.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Entities\\Libro.cs",
+              "RelativeToolTip": "ProyectoFinal.Domain\\Entities\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:34:43.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Domain\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "ProyectoFinal.Domain\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:34:33.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Domain\\Entities\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Entities\\Categoria.cs",
+              "RelativeToolTip": "ProyectoFinal.Domain\\Entities\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:34:16.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Entities\\Autor.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Domain\\Entities\\Autor.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Entities\\Autor.cs",
+              "RelativeToolTip": "ProyectoFinal.Domain\\Entities\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:34:05.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Core\\Person.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Domain\\Core\\Person.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Core\\Person.cs",
+              "RelativeToolTip": "ProyectoFinal.Domain\\Core\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:13:06.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Core\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Domain\\Core\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Domain\\Core\\BaseEntity.cs",
+              "RelativeToolTip": "ProyectoFinal.Domain\\Core\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:12:38.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProyectoFinal.Web",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Web\\ProyectoFinal.Web.csproj",
+              "RelativeDocumentMoniker": "ProyectoFinal.Web\\ProyectoFinal.Web.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Csharp-P.Final\\ProyectoFinal\\ProyectoFinal.Web\\ProyectoFinal.Web.csproj",
+              "RelativeToolTip": "ProyectoFinal.Web\\ProyectoFinal.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T01:03:30.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
